@@ -1,3 +1,7 @@
+IntelliJ Twighlight Color Scheme
+================================
+This color scheme works well in the Darkula theme for IDEA 12.x
+
 Installation
 ------------
 1. Close IDEA
