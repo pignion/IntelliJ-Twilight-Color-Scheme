@@ -1,4 +1,4 @@
-IntelliJ Twighlight Color Scheme
+IntelliJ Twilight Color Scheme
 ================================
 This color scheme works well in the Darkula theme for IDEA 12.x
 
